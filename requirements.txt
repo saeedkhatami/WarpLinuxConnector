@@ -1,0 +1,3 @@
+PyQt5~=5.15.6
+qtwidgets
+PySide2~=5.15.2.1
