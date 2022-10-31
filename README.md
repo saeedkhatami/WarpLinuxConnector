@@ -16,7 +16,7 @@ and then:
 
 now search for `WARP-Linux` app in your desktop menu.
 
-> ⚠️ IMPORTANT: After the installation please make sure you do not remove the repository. It is required for the desktop shortcut to work.
+> ⚠️ IMPORTANT: After the installation please make sure you do not remove the repository dir. It is required for the desktop shortcut to work.
 
 ## Hide Mode
 If you only want to use the tray icon, you can run the program in hide mode
