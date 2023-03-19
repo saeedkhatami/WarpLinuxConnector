@@ -1,6 +1,6 @@
 # WarpLinuxConnector
 
-A GUI app base on [warp](https://developers.cloudflare.com/warp-client/get-started/linux) on Windows for linux users
+A GUI app base on [warp](https://developers.cloudflare.com/warp-client/get-started/linux) on Windows for linux users.
 
 ## Installation
 
